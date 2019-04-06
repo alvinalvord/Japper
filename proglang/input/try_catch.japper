@@ -1,0 +1,12 @@
+school nanaman {
+	wala main () {
+		try {
+			a gets 1 div 0;
+		} oOOf (AE e) {
+			print (e + "\n");
+		} ReeeE {
+			print (4);
+		}
+
+	}
+}

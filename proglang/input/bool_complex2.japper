@@ -1,0 +1,16 @@
+school Test {
+
+	i32 test () { 
+		return 4;
+	}
+
+	wala main () {
+		num gets 2;
+		kungif (num times 3 gt test() and wak (num plus 3 gt 6)) {
+			print ("Yay\n");
+		} else {
+			print ("No");
+		}
+	}
+
+}

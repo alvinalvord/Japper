@@ -1,0 +1,14 @@
+school read_vals {
+    wala main () {
+        print("enter an int: ");
+        x gets (int) read ();
+
+        print("enter a float: ");
+        y gets (double) read ();
+
+        print("enter a string: ");
+        z gets read ();
+
+        print ("x: " plus x plus ", y: " plus y plus ", z: " plus z plus "\n");
+    }
+}

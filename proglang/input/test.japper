@@ -1,0 +1,10 @@
+school Test {
+
+	wala main () {
+		a gets 0qACGT;
+		
+		print (a);
+		
+	}
+
+}

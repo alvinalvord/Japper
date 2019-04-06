@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JapperParser.iml" filepath="$PROJECT_DIR$/.idea/modules/JapperParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JapperParser_generated.iml" filepath="$PROJECT_DIR$/.idea/modules/JapperParser_generated.iml" group="JapperParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JapperParser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JapperParser_main.iml" group="JapperParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JapperParser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JapperParser_test.iml" group="JapperParser" />
+    </modules>
+  </component>
+</project>

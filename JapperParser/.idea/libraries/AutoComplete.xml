@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="AutoComplete">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/AutoComplete-master/AutoCompleteDemo/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/AutoComplete-master/AutoComplete/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/AutoComplete-master/AutoComplete/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

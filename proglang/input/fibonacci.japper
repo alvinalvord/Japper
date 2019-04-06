@@ -1,0 +1,12 @@
+school fibonacci {
+    wala fib (var x) {
+        kungif (x lt 2) bb x;
+        bb fib (x minus 1) plus fib (x minus 2);
+    }
+
+    wala main () {
+        print ("fibonacci of: ");
+        x gets (int) read ();
+        print ("is = " plus fib (x));
+    }
+}

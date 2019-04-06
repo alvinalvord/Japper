@@ -1,0 +1,13 @@
+school Test {
+
+	wala main () {
+		sum gets 0;
+		i gets 100;
+		loop (i != 0) {
+			sum plus eq i;
+			--i;
+		}
+		print ("Sum = " plus sum);
+	}
+
+}

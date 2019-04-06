@@ -1,0 +1,21 @@
+school test_array {
+
+    wala main () {
+        x gets bago na[] {bago na[] {1, 2.0}, bago na[] {"three", no}};
+
+        loop (i gets 0; i lt 2; i inc) {
+            j = 0;
+            loop (j lt 2) {
+                print (x[i][j] + " ");
+                j++;
+            }
+        }
+
+        i gets 0;
+        loop {
+            print ("lol ");
+            i inc;
+        } until (i < 2);
+    }
+
+}

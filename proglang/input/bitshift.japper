@@ -1,0 +1,32 @@
+school Test {
+
+	wala func () {
+
+		print ("in func\n");
+	
+		bbb none;
+		
+		print ("hello\n");
+	}
+
+	wala main () {
+		i gets 2 times 2;
+		print (i plus "\n");
+		
+		j gets 2 times 16;
+		print (j plus "\n");
+		
+		k gets 32 div 2;
+		print (k plus "\n");
+		
+		l gets 128 div 16;
+		
+		print (l plus "\n");
+		
+		func ();
+		
+		
+		
+	}
+	
+}

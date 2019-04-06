@@ -1,0 +1,12 @@
+school Test {
+
+	wala main () {
+		num gets 2;
+		kung (num times 3 gt 5 && num plus 3 eq 5) {
+			print ("No\n");
+		} else {
+			print ("Yay");
+		}
+	}
+
+}

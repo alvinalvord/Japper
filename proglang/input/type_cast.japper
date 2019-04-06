@@ -1,0 +1,6 @@
+school ewan {
+	wala main () {
+		x gets (i32) read ();
+		print (x + 2);
+	}
+}

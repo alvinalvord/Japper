@@ -1,0 +1,12 @@
+school Test {
+
+	i32 getSum (i32 x, i32 y) {
+		bbb x plus y;
+	}
+
+	wala main () {
+		sum gets getSum(10,3);
+		print (sum);
+	}
+
+}

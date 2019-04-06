@@ -1,0 +1,17 @@
+school Test {
+
+	i32 fib (i32 n) {
+		kung (n <= 1) {
+			bbb n;
+		} else {
+			bbb fib (n minus 1) plus fib (n minus 2);
+		}
+	}
+
+	wala main () {
+		number gets (int) read ();
+		answer gets fib (number);
+		print ("The answer is " + answer);
+	}
+
+}

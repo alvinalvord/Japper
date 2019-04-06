@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JapperParser_main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JapperParser_main_jar</output-path>
+    <root id="archive" name="JapperParser_main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/build/generated-src/antlr/main/metadata/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="JapperParser_main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.0.3/ed9cbaeb8dccd2027348185044012aac145a5c61/kotlin-reflect-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.3/10f40d016700cf4287e49fa1d51c2a8507e9b946/kotlin-runtime-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fifesoft/rsyntaxtextarea/2.5.8/7e7dfa44d9d9703c827b8f891339150919c2d7fe/rsyntaxtextarea-2.5.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.5.1/7d7288bbe0599b32b844971f270ed001a661357/antlr4-runtime-4.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/AutoComplete/autocomplete-3.0.0.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Gradle: me.tomassetti:antlr-plus:0.1.1" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.3/20738122b53399036c321eeb84687367757d622a/kotlin-stdlib-1.0.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4/4.5.1/19a08f261dc2b7e1bc58c8f1038f766dccade74c/antlr4-4.5.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

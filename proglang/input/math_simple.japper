@@ -1,0 +1,21 @@
+school Test {
+
+	wala main () {
+		last na f32 MULTIPLIER gets 2.0f;
+		last na f32 DIVIDER gets 1.5f;
+		x gets 0;
+		y gets 0;
+		z gets 0;
+
+		x plus eq 5;
+		y plus eq 5;
+		z plus eq 6;
+
+		finalValue gets (((x plus y) times MULTIPLIER) div DIVIDER plus x plus y) minus y times MULTIPLIER;
+
+		print ("Value is: " plus (finalValue times MULTIPLIER times MULTIPLIER));
+		
+		
+	}
+
+}

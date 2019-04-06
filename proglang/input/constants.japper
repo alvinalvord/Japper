@@ -1,0 +1,8 @@
+school Test {
+
+	wala main () {
+		last na var x gets 3;
+		x gets 2; // not allowed
+	}
+
+}

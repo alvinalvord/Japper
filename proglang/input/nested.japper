@@ -1,0 +1,24 @@
+school Test{
+	wala main(){
+		print ("\n");
+
+		loop ( i gets 1; i le 9; i inc ){
+			print (" " + i);
+		}
+		print ("\n");
+		print ("------------------\n");
+		
+		loop ( i gets 1; i le 9; i inc ){
+			print (i plus "|");
+			loop ( j gets 1; j le 9; j inc ){
+				kung ( i times j lt 10 ) {
+					print (" " plus i times j);
+				}
+				else {
+					print (" " plus i times j);
+				}
+			}
+			print ("\n");
+		}		
+	}
+}

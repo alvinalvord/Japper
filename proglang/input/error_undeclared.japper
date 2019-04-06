@@ -1,0 +1,15 @@
+school Test{
+	
+	wala func () {
+		print (y);
+	}
+
+	wala main(){
+		x gets 0;
+		kung ( x eq 0 ) {
+			y gets 2;
+		}
+		print ("Y is undeclared " plus y);
+		func ();
+	}
+}

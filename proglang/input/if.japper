@@ -1,0 +1,17 @@
+school Test {
+
+	wala main () {
+		number gets (int) read ();
+
+		kungif (number gt 0) {
+			print ("Number is positive.");
+		}
+		else kungif (number lt 0) {
+			print ("Number is negative.");
+		}
+		else {
+			print ("Number is 0.");
+		}
+	}
+
+}

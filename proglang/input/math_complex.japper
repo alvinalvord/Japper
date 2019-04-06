@@ -1,0 +1,15 @@
+school Test {
+
+	i32 test () {
+		bbb 2 plus 4;
+	}
+
+	wala main () {
+		A gets bago na[] {1,2,3};
+		x gets 4;
+		sum gets x plus 3 times 3 plus ((4 times 2 times (3 plus 2)) div 5) plus A[0] plus test ();
+		print ("The value is" plus sum);
+		
+	}
+
+}

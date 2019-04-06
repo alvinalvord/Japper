@@ -1,0 +1,14 @@
+school Test {
+
+	wala main () {
+		a gets 3;
+		b gets 2.0;
+		test gets "Hello";
+		
+		print (a plus "\n");
+		print (b plus "\n");
+		print (test plus "\n");
+		
+	}
+
+}

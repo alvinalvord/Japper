@@ -1,0 +1,11 @@
+school Test {
+
+	wala main () {
+		i gets 10;
+		loop {
+			print (i plus "\n");
+			i dec;
+		} until (i gt 1);
+	}
+
+}

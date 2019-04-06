@@ -1,0 +1,9 @@
+school Test {
+
+	wala main () {
+		loop (i gets 15; i gt 1; i dec) {
+			print ("The value of i is: " plus i plus "\n");
+		}
+	}
+
+}

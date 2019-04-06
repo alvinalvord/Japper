@@ -1,0 +1,14 @@
+school Test {
+
+	wala main () {
+		number gets (int) read ();
+		
+		kung (number times 5 gt 30 plus 2) {
+			print ("No\n");
+		}
+		else {
+			print ("Yay");
+		}
+	}
+
+}

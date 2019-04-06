@@ -1,0 +1,16 @@
+school Test {
+
+	wala main () {
+		print ("First Name: ");
+		first_name gets read ();
+		print ("Middle Name: ");
+		middle_name gets read ();
+		print ("Last Name: ");
+		last_name gets read ();
+
+		print ("Welcome " plus first_name plus " " plus middle_name plus " " plus last_name plus "!\n");
+		
+		
+	}
+
+}
